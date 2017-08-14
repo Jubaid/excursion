@@ -1,4 +1,34 @@
-h1 {
-  font-family: sans-serif;
-  color: black;
+body {
+  background-color: black;
+  text-align: center;
+}
+
+.discover  {
+  font-family: Verdana;
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+h3 {
+  color: aquamarine;
+  font-size: 16px;
+}
+.personal {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.excursion {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.camp {
+  padding: 15px;
+}
+.copyright {
+  text-align: right;
+  color: gray;
 }
